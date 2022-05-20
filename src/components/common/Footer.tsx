@@ -17,7 +17,7 @@ const Footer: React.FC = () => {
       } sm:mb-0 shadow-sm py-5 border-t-[1px] border-t-gray-200 dark:border-t-gray-700 bg-white dark:bg-custom-primary`}
     >
       <Container className='flex items-center justify-between'>
-        <p>&copy; JoonaCode</p>
+        <p>&copy; Koleksibot</p>
         <select onChange={handleChange} defaultValue={locale === 'id' ? 'id' : 'en'}>
           <option value='id'>Indonesia</option>
           <option value='en'>English</option>
