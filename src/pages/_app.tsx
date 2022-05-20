@@ -18,11 +18,11 @@ function MyApp({ Component, pageProps }: AppProps) {
     <>
       <DefaultSeo
         defaultTitle={`Baca Menghapal Al-Qur'an Online | BMAO`}
-        titleTemplate='%s | BMAO'
+        titleTemplate='%s | Al-Quran'
         openGraph={{
           type: 'website',
           url: process.env.NEXT_PUBLIC_MAIN_URL,
-          site_name: 'BMAO',
+          site_name: 'Al-Quran',
         }}
         twitter={{
           handle: '@handle',
