@@ -1,6 +1,6 @@
 ## About The Project
 
-BMAO merupakan website untuk Membaca, Menghapal, Mendengarkan Al-Qur'an secara online <a href="https://bmao.joonacode.com/" target="_blank">View Demo</a>. Website ini terinspirasi dari <a href="https://quran.kemenag.go.id/" target="_blank">quran.kemenag.go.id</a> untuk API saya dapatkan dari <a href="https://github.com/sutanlab/quran-api" target="_blank">https://github.com/sutanlab/quran-api</a>
+Al-Quran merupakan website untuk Membaca, Menghapal, Mendengarkan Al-Qur'an secara online <a href="https://al-quran-online-navy.vercel.app/" target="_blank">View Demo</a>. Website ini terinspirasi dari <a href="https://quran.kemenag.go.id/" target="_blank">quran.kemenag.go.id</a> untuk API saya dapatkan dari <a href="https://github.com/sutanlab/quran-api" target="_blank">https://github.com/sutanlab/quran-api</a>
 
 ## Built With
 
@@ -15,7 +15,7 @@ BMAO merupakan website untuk Membaca, Menghapal, Mendengarkan Al-Qur'an secara o
 
 1. Clone the repo
 ```sh
-git clone https://github.com/joonacode/bmao-al-quran-online
+git clone https://github.com/joonacode/al-quran-online
 ```
 2. Install NPM packages
 ```sh
@@ -40,10 +40,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-joonacode@gmail.com
-
-Project Link: [https://github.com/joonacode/bmao-al-quran-online](https://github.com/joonacode/bmao-al-quran-online)
-
+anonsecteaminc@gmail.com
 
 
 <!-- ACKNOWLEDGEMENTS -->
