@@ -16,7 +16,7 @@ const HeaderMain: React.FC = () => {
       <Container>
         <nav className='flex items-center justify-between gap-4'>
           <Link passHref href={'/'}>
-            <h1 className='cursor-pointer text-xl font-bold'>BMAO</h1>
+            <h1 className='cursor-pointer text-xl font-bold'>Al-Quran</h1>
           </Link>
           <div className='flex-1 sm:flex-none flex items-center gap-4'>
             <div className='w-full'>
