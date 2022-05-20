@@ -15,7 +15,7 @@ Al-Quran merupakan website untuk Membaca, Menghapal, Mendengarkan Al-Qur'an seca
 
 1. Clone the repo
 ```sh
-git clone https://github.com/joonacode/al-quran-online
+git clone https://github.com/koleksibot/al-quran-online
 ```
 2. Install NPM packages
 ```sh
